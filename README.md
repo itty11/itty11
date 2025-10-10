@@ -1,10 +1,3 @@
-<!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=0CF7F7&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Generative+AI+Practitioner;MCA+AI+Student+at+Amrita+Ahead;IoT+%26+Drone+Technology+Enthusiast;Building+Smart+and+Intelligent+Systems+💡" alt="Typing SVG">
-</p>
-
----
-
 # 👋 Hi, I'm Ittyavira C Abraham  
 
 🎓 **MCA AI Student at Amrita Ahead**  
@@ -25,7 +18,7 @@ Currently, I’m exploring:
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Projects  
 
 🌡️ **Smart Health Risk Predictor using ML**  
 > Multi-disease prediction (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost.
@@ -68,4 +61,4 @@ Currently, I’m exploring:
 
 ---
 
-### 🌟 *"Building intelligent systems that think, learn, and inspire innovation."*
+### 🌟 "Building intelligent systems that think, learn, and inspire innovation."
