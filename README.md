@@ -48,7 +48,7 @@ Currently, I’m exploring:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ittyavira)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/itty11)  
-📧 **Email:** ittyaviraca@gmail.com  
+📧 **Email:** ittyaviracabraham@gmail.com  
 
 ---
 
