@@ -18,6 +18,14 @@ Currently, I’m exploring:
 
 ---
 
+---
+
+### 📄 My Resume
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/itty11/itty11/raw/main/Ittyavira_C_Abraham_Resume.pdf)
+
+
+---
+
 ### 🚀 Projects  
 
 🌡️ **Smart Health Risk Predictor using ML**  
