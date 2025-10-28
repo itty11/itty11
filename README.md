@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ittyavira C Abraham  
 
-🎓 **MCA AI Student at Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
+🎓 **MCA AI Graduate at Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
 💡 **AI/ML Engineer | Data & IoT Enthusiast | Generative AI Practitioner**  
 
 ---
