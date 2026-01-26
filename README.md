@@ -1,44 +1,45 @@
 # 👋 Hi, I'm Ittyavira C Abraham  
 
-🎓 **MCA AI Graduate at Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
-💡 **AI/ML Engineer | Data & IoT Enthusiast | Generative AI Practitioner**  
+🎓 **MCA (Artificial Intelligence) Graduate | Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
+💡 **Aspiring AI/ML Engineer | Data Analyst | Generative AI & Angentic AI Enthusiast**  
 
 ---
 
 ### 🧠 About Me  
 
-I’m passionate about leveraging **Artificial Intelligence, Machine Learning, and Generative AI** to build intelligent systems that solve real-world problems.  
-My interests span across **IoT, Deep Learning, NLP, and Computer Vision**, and I enjoy integrating AI with robotics and embedded systems.  
+I’m an aspiring **AI/ML Engineer** with a strong passion for building **intelligent, data-driven systems** that create real-world impact.  
+My interests span across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**, with a growing focus on scalable deployment and optimization.
+
+I enjoy bridging **AI with IoT, embedded systems, and real-time applications**, and I’m continuously learning by building and shipping practical projects.
 
 Currently, I’m exploring:  
-- 🤖 **Generative AI** (LLMs, RAG, LangChain)  
-- 📈 **Machine Learning for Supply Chain & Health Applications**  
-- 🌐 **FastAPI + Streamlit for AI Web Apps**  
-- ⚙️ **Dynamic Pricing, Forecasting & Optimization Models**  
+- 🤖 **Generative AI** — LLMs, RAG pipelines, LangChain  
+- 📈 **Applied Machine Learning** — Supply Chain, Healthcare & Forecasting  
+- 🌐 **AI Application Deployment** — FastAPI, Streamlit  
+- ⚙️ **Optimization & Analytics** — Dynamic Pricing, Time-Series Forecasting  
 
 ---
 
 ---
 
-### 📄 My Resume
+### 📄 My Resume  
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/itty11/itty11/raw/main/Ittyavira-C-Abraham-AI-ML.pdf)
-
 
 ---
 
 ### 🚀 Projects  
 
-🌡️ **Smart Health Risk Predictor using ML**  
-> Multi-disease prediction (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost.
+🌡️ **Smart Health Risk Predictor using Machine Learning**  
+> Multi-disease risk prediction (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost with comparative evaluation.
 
-🧩 **Resume Enhancer using Hugging Face Transformers**  
-> AI-powered resume analyzer built with Transformers and LangChain to enhance job relevance and clarity.  
+🧩 **AI-Powered Resume Enhancer (NLP & Transformers)**  
+> Resume analysis and enhancement system built using Hugging Face Transformers and LangChain to improve relevance and clarity for job roles.
 
-📊 **Inventory Optimization using ML**  
-> Dynamic demand forecasting and optimal reorder point estimation using regression and clustering techniques.  
+📊 **Inventory Optimization & Demand Forecasting**  
+> Machine Learning-based demand forecasting and optimal reorder point estimation using regression, clustering, and analytics techniques.
 
 💬 **Dictionary & Grammar Chatbot (Major Project)**  
-> AI-powered chatbot that provides meanings, grammar corrections, and phrase suggestions.  
+> NLP-based chatbot that provides word meanings, grammar corrections, and contextual phrase suggestions using AI models.
 
 ---
 
@@ -46,15 +47,16 @@ Currently, I’m exploring:
 
 **Languages:** Python, JavaScript, C  
 **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, LangChain, Hugging Face  
-**Tools:** Streamlit, FastAPI, Flask, Git, Google Colab, Jupyter  
-**Cloud:** Google Cloud Platform (GCP), Microsoft Azure  
-**Other Interests:** IoT, Drone Tech, Edge AI  
+**Backend & Apps:** FastAPI, Streamlit, Flask  
+**Tools:** Git, Google Colab, Jupyter Notebook  
+**Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure  
+**Additional Interests:** IoT Systems, Edge AI, Drone Technology  
 
 ---
 
 ### 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ittyavira-c-abraham-5435621b7/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ittyavira-c-abraham-5435621b7/)  
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/itty11)  
 
@@ -73,4 +75,4 @@ Currently, I’m exploring:
 
 ---
 
-### 🌟 "Building intelligent systems that think, learn, and inspire innovation."
+### 🌟 *“Building intelligent systems that learn, adapt, and create meaningful impact.”*
