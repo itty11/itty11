@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Ittyavira C Abraham  
 
+<p align="center">
+  <img src="profile.jpg" alt="Professional Headshot" width="220" style="border-radius:50%;" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="ai_avatar.png" alt="AI Developer Avatar" width="220" />
+</p>
+
 🎓 **MCA (Artificial Intelligence) Graduate | Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
 💡 **Aspiring AI/ML Engineer | Data Analyst | Generative AI & Angentic AI Enthusiast**  
 
