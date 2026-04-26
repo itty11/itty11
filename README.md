@@ -7,26 +7,24 @@
 </p>
 
 🎓 **MCA (Artificial Intelligence) Graduate | Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
-💡 **AI/ML Engineer | Data Analyst | Generative AI & Agentic AI Enthusiast**  
+💡 **AI/ML Engineer | Full-Stack Developer | Generative AI & Agentic AI Enthusiast**  
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Real-World+AI+Solutions" />
-</p>
-
 ### 🧠 About Me  
 
-I’m an **AI/ML Engineer** focused on building **intelligent, scalable, and data-driven systems** that solve real-world problems.  
-My work spans across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**, with an emphasis on **practical deployment and performance optimization**.
+I’m an **AI/ML Engineer and Full-Stack Developer** passionate about building **intelligent, scalable, and production-ready systems** that solve real-world problems.  
 
-I enjoy integrating **AI with IoT, embedded systems, and real-time applications**, and I continuously learn by building and shipping impactful projects.
+My expertise spans across **Machine Learning, Deep Learning, NLP, and Generative AI**, combined with **modern web development** to deliver end-to-end AI-powered applications.
+
+I focus on **building → deploying → scaling** real solutions rather than just models.
 
 Currently, I’m exploring:  
-- 🤖 **Generative AI** — LLMs, RAG pipelines, LangChain  
-- 📈 **Applied Machine Learning** — Supply Chain, Healthcare & Forecasting  
-- 🌐 **AI Application Deployment** — FastAPI, Streamlit  
+- 🤖 **Generative AI** — LLMs, RAG pipelines, LangChain, Ollama  
+- 📈 **Applied Machine Learning** — Healthcare, Supply Chain & Forecasting  
+- 🌐 **Full-Stack AI Apps** — React, Django, FastAPI, Streamlit  
 - ⚙️ **Optimization & Analytics** — Dynamic Pricing, Time-Series Forecasting  
+- ☁️ **Deployment & MLOps** — GCP, APIs, Model Serving  
 
 ---
 
@@ -40,27 +38,32 @@ Currently, I’m exploring:
 ### 🚀 Projects  
 
 🌡️ **Smart Health Risk Predictor using Machine Learning**  
-> Built a multi-disease prediction system (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost with comparative model evaluation.
+> Multi-disease risk prediction (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost with comparative evaluation and deployment-ready pipeline.
 
 🧩 **AI-Powered Resume Enhancer (NLP & Transformers)**  
-> Developed a resume analysis and enhancement system using Hugging Face Transformers and LangChain to improve job relevance and content quality.
+> Resume analysis and enhancement system built using Hugging Face Transformers and LangChain with real-time suggestions.
 
 📊 **Inventory Optimization & Demand Forecasting**  
-> Designed ML-based demand forecasting and optimal reorder strategies using regression, clustering, and analytical modeling techniques.
+> ML-based demand forecasting and optimal inventory strategy using regression, clustering, and business analytics.
 
 💬 **Dictionary & Grammar Chatbot (Major Project)**  
-> Created an NLP-based chatbot for word meanings, grammar correction, and contextual phrase suggestions using AI models.
+> NLP + Generative AI chatbot for word meanings, grammar correction, and contextual suggestions using LLM + RAG.
+
+🌐 **AI Web Applications (React + Django + FastAPI)**  
+> Full-stack AI apps integrating ML models with modern frontend (React) and backend APIs (Django/FastAPI).
 
 ---
 
 ### 🛠️ Tech Stack  
 
 **Languages:** Python, JavaScript, C  
-**Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, LangChain, Hugging Face  
-**Backend & Apps:** FastAPI, Streamlit, Flask  
-**Tools:** Git, Jupyter Notebook, Google Colab  
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+**Backend:** Django, FastAPI, Flask  
+**AI/ML:** TensorFlow, PyTorch, scikit-learn, Hugging Face, LangChain  
+**Tools:** Git, Docker (learning), Jupyter Notebook, Google Colab  
 **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure  
-**Data & Analytics:** SQL, NoSQL, Excel, Power BI, Tableau  
+**Databases:** MySQL, PostgreSQL, MongoDB (NoSQL)  
+**Data Tools:** Excel, Power BI, Tableau  
 **Additional Interests:** IoT Systems, Edge AI, Drone Technology  
 
 ---
@@ -86,4 +89,4 @@ Currently, I’m exploring:
 
 ---
 
-### 🌟 *“Building intelligent systems that learn, adapt, and deliver real-world impact.”*
+### 🌟 *“Building intelligent systems that learn, adapt, and scale in real-world environments.”*
