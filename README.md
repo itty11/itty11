@@ -7,16 +7,16 @@
 </p>
 
 🎓 **MCA (Artificial Intelligence) Graduate | Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
-💡 **Aspiring AI/ML Engineer | Data Analyst | Generative AI & Angentic AI Enthusiast**  
+💡 **AI/ML Engineer | Data Analyst | Generative AI & Agentic AI Enthusiast**  
 
 ---
 
 ### 🧠 About Me  
 
-I’m an aspiring **AI/ML Engineer** with a strong passion for building **intelligent, data-driven systems** that create real-world impact.  
-My interests span across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**, with a growing focus on scalable deployment and optimization.
+I’m an **AI/ML Engineer** focused on building **intelligent, scalable, and data-driven systems** that solve real-world problems.  
+My work spans across **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**, with an emphasis on **practical deployment and performance optimization**.
 
-I enjoy bridging **AI with IoT, embedded systems, and real-time applications**, and I’m continuously learning by building and shipping practical projects.
+I enjoy integrating **AI with IoT, embedded systems, and real-time applications**, and I continuously learn by building and shipping impactful projects.
 
 Currently, I’m exploring:  
 - 🤖 **Generative AI** — LLMs, RAG pipelines, LangChain  
@@ -36,16 +36,16 @@ Currently, I’m exploring:
 ### 🚀 Projects  
 
 🌡️ **Smart Health Risk Predictor using Machine Learning**  
-> Multi-disease risk prediction (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost with comparative evaluation.
+> Built a multi-disease prediction system (Heart, Diabetes, Kidney, Stroke) using Logistic Regression, Random Forest, SVM, and XGBoost with comparative model evaluation.
 
 🧩 **AI-Powered Resume Enhancer (NLP & Transformers)**  
-> Resume analysis and enhancement system built using Hugging Face Transformers and LangChain to improve relevance and clarity for job roles.
+> Developed a resume analysis and enhancement system using Hugging Face Transformers and LangChain to improve job relevance and content quality.
 
 📊 **Inventory Optimization & Demand Forecasting**  
-> Machine Learning-based demand forecasting and optimal reorder point estimation using regression, clustering, and analytics techniques.
+> Designed ML-based demand forecasting and optimal reorder strategies using regression, clustering, and analytical modeling techniques.
 
 💬 **Dictionary & Grammar Chatbot (Major Project)**  
-> NLP-based chatbot that provides word meanings, grammar corrections, and contextual phrase suggestions using AI models.
+> Created an NLP-based chatbot for word meanings, grammar correction, and contextual phrase suggestions using AI models.
 
 ---
 
@@ -54,8 +54,9 @@ Currently, I’m exploring:
 **Languages:** Python, JavaScript, C  
 **Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, LangChain, Hugging Face  
 **Backend & Apps:** FastAPI, Streamlit, Flask  
-**Tools:** Git, Google Colab, Jupyter Notebook  
+**Tools:** Git, Jupyter Notebook, Google Colab  
 **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure  
+**Data & Analytics:** SQL, NoSQL, Excel, Power BI, Tableau  
 **Additional Interests:** IoT Systems, Edge AI, Drone Technology  
 
 ---
@@ -81,4 +82,4 @@ Currently, I’m exploring:
 
 ---
 
-### 🌟 *“Building intelligent systems that learn, adapt, and create meaningful impact.”*
+### 🌟 *“Building intelligent systems that learn, adapt, and deliver real-world impact.”*
