@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Real-World+AI+Solutions" />
+</p>
+
 ### 🧠 About Me  
 
 I’m an **AI/ML Engineer** focused on building **intelligent, scalable, and data-driven systems** that solve real-world problems.  
