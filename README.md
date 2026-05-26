@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Ittyavira C Abraham  
+<h1 align="center">Hi 👋, I'm Ittyavira C Abraham</h1>
+
+<h3 align="center">
+AI/ML Engineer • Full-Stack Developer • Generative AI Enthusiast
+</h3>
 
 <p align="center">
   <img src="profile.jpg" alt="Professional Headshot" width="220" style="border-radius:50%;" />
@@ -27,6 +31,12 @@ Currently, I’m exploring:
 - ☁️ **Deployment & MLOps** — GCP, APIs, Model Serving  
 
 ---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itty11&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ---
 
@@ -68,6 +78,13 @@ Currently, I’m exploring:
 
 ---
 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,fastapi,docker,mongodb,mysql,git,gcp,azure,vscode" />
+</p>
+
+---
+
 ### 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ittyavira-c-abraham-5435621b7/)  
@@ -85,6 +102,18 @@ Currently, I’m exploring:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itty11&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itty11&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itty11&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itty11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
