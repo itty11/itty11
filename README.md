@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems;Python+%7C+React+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
 </p>
+
 ---
 
 <p align="center">
