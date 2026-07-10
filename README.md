@@ -74,7 +74,7 @@ Currently, I’m exploring:
 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
 **Backend:** Django, FastAPI, Flask  
 **AI/ML:** TensorFlow, PyTorch, scikit-learn, Hugging Face, LangChain  
-**Tools:** Git, Docker (learning), Jupyter Notebook, Google Colab  
+**Tools:** Git, Docker, Jupyter Notebook, Google Colab  
 **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure  
 **Databases:** MySQL, PostgreSQL, MongoDB (NoSQL)  
 **Data Tools:** Excel, Power BI, Tableau  
@@ -86,6 +86,14 @@ Currently, I’m exploring:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,fastapi,docker,mongodb,mysql,git,gcp,azure,vscode" />
 </p>
+
+---
+
+### 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/good_master11/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ittyavirac_abra1)
 
 ---
 
