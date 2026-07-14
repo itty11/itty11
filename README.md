@@ -83,26 +83,27 @@ Currently, I’m exploring:
 ---
 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,fastapi,docker,mongodb,mysql,git,gcp,azure,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,js,react,html,css,django,fastapi,flask,tensorflow,pytorch,docker,git,mongodb,mysql,postgres,azure,gcp,vscode" />
 </p>
 
 ---
-
-### 💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/good_master11/)
-
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ittyavirac_abra1)
 
 ---
 
 ### 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ittyavira-c-abraham-5435621b7/)  
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/itty11)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ittyavira-c-abraham-5435621b7/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/itty11)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/good_master11/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ittyavirac_abra1)
+
+</p>
 
 📧 **Email:** ittyavirac.abraham@gmail.com  
 
@@ -126,9 +127,38 @@ Currently, I’m exploring:
 ---
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itty11&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=itty11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itty11&theme=github_dark"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/itty11/itty11/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 ### 🌟 *“Building intelligent systems that learn, adapt, and scale in real-world environments.”*
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
+
