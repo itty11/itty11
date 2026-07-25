@@ -39,7 +39,10 @@ Currently, I’m exploring:
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itty11&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-trophies.vercel.app/?username=itty11&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+
+  [View my unlocked achievements →](https://github.com/itty11?tab=achievements)
+
 </p>
 
 ---
