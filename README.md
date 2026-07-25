@@ -114,8 +114,8 @@ Currently, I’m exploring:
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itty11&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itty11&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats-navy-alpha-55.vercel.app/api?username=itty11&show_icons=true&theme=radical" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats-navy-alpha-55.vercel.app/api/top-langs/?username=itty11&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
 </p>
 
 ---
