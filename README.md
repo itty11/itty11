@@ -9,9 +9,16 @@
 ---
 
 <p align="center">
+   <img src="banner.png" alt="Profile Banner" width="220" style="border-radius:50%;" />
+
+---
+
+<p align="center">
   <img src="profile.jpg" alt="Professional Headshot" width="220" style="border-radius:50%;" />
   &nbsp;&nbsp;&nbsp;
   <img src="ai_avatar.png" alt="AI Developer Avatar" width="220" />
+  <img src="new_headshot.png" alt="AI Developer Avatar" width="220" />
+  <img src="profile_click.png" alt="AI Developer Avatar" width="220" />
 </p>
 
 🎓 **MCA (Artificial Intelligence) Graduate | Amrita Vishwa Vidyapeetham (Amrita Ahead)**  
