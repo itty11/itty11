@@ -9,11 +9,6 @@
 ---
 
 <p align="center">
-   <img src="banner.png" alt="Profile Banner" width="220" style="border-radius:50%;" />
-
----
-
-<p align="center">
   &nbsp;&nbsp;&nbsp;
   <img src="ai_avatar.png" alt="AI Developer Avatar" width="220" />
 </p>
